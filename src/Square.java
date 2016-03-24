@@ -34,7 +34,7 @@ public class Square extends Shape {
 	@Override
 	public int getShapeHeight(){
 		// TODO Return Square height
-		return shapeHeight;
+		return shapeWidth;
 	}
 
 
